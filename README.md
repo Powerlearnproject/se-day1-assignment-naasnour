@@ -13,7 +13,7 @@ Identify and describe at least three key milestones in the evolution of software
 - Software Crisis (1960s): Problems arose because software projects were getting too complex. This led to developing better methods and standards
 - Modern Era (1990s-Present): Agile and DevOps came along, focusing on working in small steps and improving software quickly.
 
-List and briefly explain the phases of the Software Development Life Cycle.
+List and briefly explain the phases of the Software Development Life Cycle. 
 - Requirements Analysis: Figuring out what the software needs to do
 - Design: Planning out how the software will look and work
 - Implementation: Writing the actual code
